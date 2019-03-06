@@ -1,16 +1,16 @@
 <?php
 
 
-namespace FileCleaner\FileKeeperAdapter;
+namespace Ling\FileCleaner\FileKeeperAdapter;
 
 
-use FileCleaner\FileKeeper\EveryXDaysFileKeeper;
-use FileCleaner\FileKeeper\FileKeeperInterface;
-use FileCleaner\FileKeeper\LastXDaysFileKeeper;
-use FileCleaner\FileKeeper\XPerMonthFileKeeper;
-use FileCleaner\FileKeeper\XPerWeekFileKeeper;
-use FileCleaner\FileKeeper\XPerYearFileKeeper;
-use FileCleaner\Util\ExtractorUtil;
+use Ling\FileCleaner\FileKeeper\EveryXDaysFileKeeper;
+use Ling\FileCleaner\FileKeeper\FileKeeperInterface;
+use Ling\FileCleaner\FileKeeper\LastXDaysFileKeeper;
+use Ling\FileCleaner\FileKeeper\XPerMonthFileKeeper;
+use Ling\FileCleaner\FileKeeper\XPerWeekFileKeeper;
+use Ling\FileCleaner\FileKeeper\XPerYearFileKeeper;
+use Ling\FileCleaner\Util\ExtractorUtil;
 
 
 /**

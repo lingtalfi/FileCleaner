@@ -1,7 +1,7 @@
 <?php
 
 
-namespace FileCleaner\Util;
+namespace Ling\FileCleaner\Util;
 
 
 class ExtractorUtil

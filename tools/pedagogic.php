@@ -7,15 +7,15 @@
 //require_once "path/to/planets/FileCleaner/tools/gen.php";
 //exit;
 
-use FileCleaner\FileCleaner;
-use FileCleaner\FileKeeper\EveryXDaysFileKeeper;
-use FileCleaner\FileKeeper\LastXDaysFileKeeper;
-use FileCleaner\FileKeeper\OnePerMonthFileKeeper;
-use FileCleaner\FileKeeper\XPerMonthFileKeeper;
-use FileCleaner\FileKeeper\XPerWeekFileKeeper;
-use FileCleaner\FileKeeper\XPerYearFileKeeper;
-use FileCleaner\SimpleFileCleaner;
-use FileCleaner\Util\ExtractorUtil;
+use Ling\FileCleaner\FileCleaner;
+use Ling\FileCleaner\FileKeeper\EveryXDaysFileKeeper;
+use Ling\FileCleaner\FileKeeper\LastXDaysFileKeeper;
+use Ling\FileCleaner\FileKeeper\OnePerMonthFileKeeper;
+use Ling\FileCleaner\FileKeeper\XPerMonthFileKeeper;
+use Ling\FileCleaner\FileKeeper\XPerWeekFileKeeper;
+use Ling\FileCleaner\FileKeeper\XPerYearFileKeeper;
+use Ling\FileCleaner\SimpleFileCleaner;
+use Ling\FileCleaner\Util\ExtractorUtil;
 
 
 //require "bigbang.php";

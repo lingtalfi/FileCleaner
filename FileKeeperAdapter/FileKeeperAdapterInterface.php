@@ -1,10 +1,10 @@
 <?php
 
 
-namespace FileCleaner\FileKeeperAdapter;
+namespace Ling\FileCleaner\FileKeeperAdapter;
 
 
-use FileCleaner\FileKeeper\FileKeeperInterface;
+use Ling\FileCleaner\FileKeeper\FileKeeperInterface;
 
 interface FileKeeperAdapterInterface
 {

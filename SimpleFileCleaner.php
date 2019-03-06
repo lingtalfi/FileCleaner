@@ -1,11 +1,11 @@
 <?php
 
 
-namespace FileCleaner;
+namespace Ling\FileCleaner;
 
-use FileCleaner\FileKeeper\FileKeeperInterface;
-use FileCleaner\FileKeeperAdapter\FileKeeperAdapterInterface;
-use FileCleaner\FileKeeperAdapter\TimeBasedFileKeeperAdapter;
+use Ling\FileCleaner\FileKeeper\FileKeeperInterface;
+use Ling\FileCleaner\FileKeeperAdapter\FileKeeperAdapterInterface;
+use Ling\FileCleaner\FileKeeperAdapter\TimeBasedFileKeeperAdapter;
 
 class SimpleFileCleaner extends FileCleaner
 {

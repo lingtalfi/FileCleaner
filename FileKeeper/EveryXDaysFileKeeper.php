@@ -1,7 +1,7 @@
 <?php
 
 
-namespace FileCleaner\FileKeeper;
+namespace Ling\FileCleaner\FileKeeper;
 
 /**
  * This class assumes that backups are made every day.
