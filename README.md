@@ -308,7 +308,11 @@ directory of this repository.
 
 History Log
 ------------------
-    
+
+- 1.1.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.1.0 -- 2017-02-24
 
     - add last x days syntax
